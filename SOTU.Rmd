@@ -1,0 +1,19 @@
+---
+title: "SOTU"
+author: "Charlie Olmert"
+date: "10/29/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(devtools)
+library(tidyverse)
+library(stringr)
+```
+
+```{r}
+
+```
+
